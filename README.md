@@ -1,6 +1,6 @@
 ![Apresentação do jogo](https://github.com/Igoroliveira98/super-heroi-game/blob/master/img/background.jpg)
 
-# Sorteio de Cartas 
+# Super-Heroi Game 
 
 Olá pessoas! Esse foi um projeto desenvolvido durante o curso online da Cod3r pela udemy. Um projeto bem legal que emula o jogo no estilo Flappy Bird, tendo como objetivo praticar os conceitos aprendidos sobre DOM.
  
