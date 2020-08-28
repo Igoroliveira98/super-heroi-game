@@ -2,7 +2,7 @@
 
 # Sorteio de Cartas 
 
-Olá pessoas!! Esse foi um projeto desenvolvido durante o curso online da Cod3r pela udemy. Um projeto bem legal que emula o jogo no estilo Flappy Bird, tendo como objetivo praticar os conceitos aprendidos sobre DOM.
+Olá pessoas! Esse foi um projeto desenvolvido durante o curso online da Cod3r pela udemy. Um projeto bem legal que emula o jogo no estilo Flappy Bird, tendo como objetivo praticar os conceitos aprendidos sobre DOM.
  
 **Download do Projeto:** 
 ```
